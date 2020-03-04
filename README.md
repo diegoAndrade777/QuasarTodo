@@ -3,16 +3,16 @@
 A Quasar Framework app
 
 Web version
-<img src="./static/Screenshot_4.png" align="center"></img>
+<img src="src/static/Screenshot_4.png" align="center"></img>
 
 Android version
-<img src="./static/Screenshot_2.png" align="center"></img>
+<img src="src/static/Screenshot_2.png" align="center"></img>
 
 Electron version
-<img src="./static/Screenshot_3.png" align="center"></img>
+<img src="src/static/Screenshot_3.png" align="center"></img>
 
 IOs Version
-<img src="./static/Screenshot_1.png" align="center"></img>
+<img src="src/static/Screenshot_1.png" align="center"></img>
 
 ## Install the dependencies
 ```bash
