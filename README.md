@@ -2,16 +2,16 @@
 
 A Quasar Framework app
 
-Web version
+# Web version
 <img src="src/assets/Screenshot_4.png" align="center"></img>
 
-Android version
+# Android version
 <img src="src/assets/Screenshot_2.png" align="center"></img>
 
-Electron version
+# Electron version
 <img src="src/assets/Screenshot_3.png" align="center"></img>
 
-IOs Version
+# IOs Version
 <img src="src/assets/Screenshot_1.png" align="center"></img>
 
 ## Install the dependencies
